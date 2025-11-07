@@ -1,2 +1,80 @@
-# Car_Sales_Analysis
-Interactive Power BI dashboard for analyzing car sales performance. Visualizes key KPIs like YTD, MTD, and YOY sales, cars sold, and average price. Helps dealerships make data-driven decisions using insightful charts, trends, and regional analysis.
+
+# 🚗 Car Sales Analysis Dashboard Using Power BI
+
+## 📘 Overview
+This project focuses on analyzing car sales performance using **Power BI**. It enables the company to monitor critical **Key Performance Indicators (KPIs)**, sales trends, and performance comparisons. The dashboard helps stakeholders make **data-driven decisions** by offering a clear, interactive view of overall sales, profits, and product performance.
+
+---
+
+## 🎯 Objective
+The objective of this project is to design and develop a **dynamic and interactive Car Sales Dashboard** in Power BI.  
+The dashboard visualizes key metrics related to sales performance, allowing the management team to:
+- Track **Year-to-Date (YTD)**, **Month-to-Date (MTD)**, and **Year-over-Year (YOY)** performance.
+- Monitor **sales, prices, and units sold** effectively.
+- Identify **trends, growth opportunities**, and **low-performing segments**.
+
+---
+
+## 🧠 Problem Statement
+Our company, a car dealership selling multiple car models, needs a **comprehensive Power BI dashboard** to analyze sales performance efficiently.  
+The dashboard is expected to display **real-time KPIs** and detailed sales analytics to support business decisions.
+
+### 📊 KPI Requirements
+The dashboard provides real-time insights into the following KPIs:
+
+**Sales Overview**
+- YTD Total Sales  
+- MTD Total Sales  
+- YOY Growth in Total Sales  
+- Difference between YTD and PTYD Sales  
+
+**Average Price Analysis**
+- YTD Average Price  
+- MTD Average Price  
+- YOY Growth in Average Price  
+- Difference between YTD and PTYD Average Price  
+
+**Cars Sold Metrics**
+- YTD Cars Sold  
+- MTD Cars Sold  
+- YOY Growth in Cars Sold  
+- Difference between YTD and PTYD Cars Sold  
+
+---
+
+## 📈 Charts & Visualizations
+
+| Visualization | Description |
+|----------------|--------------|
+| **YTD Sales Weekly Trend** | Line chart showing weekly trends of YTD sales. |
+| **YTD Total Sales by Body Style** | Pie chart showing distribution of sales across different car body styles. |
+| **YTD Total Sales by Color** | Pie chart highlighting contribution of car colors to YTD sales. |
+| **YTD Cars Sold by Dealer Region** | Map visualization displaying YTD sales distribution geographically. |
+| **Company-Wise Sales Trend (Grid)** | Tabular grid showing sales trend by company with YTD figures. |
+| **Detailed Sales Grid** | Comprehensive grid showing car model, body style, color, sales amount, dealer region, and date. |
+
+---
+
+## 🛠️ Tools & Technologies Used
+- **Power BI** – for data modeling and visualization  
+- **Excel** – for data cleaning and preprocessing  
+- **Power Query** – for data transformation  
+- **DAX (Data Analysis Expressions)** – for KPI and calculated metrics  
+
+---
+
+## 💡 Insights Derived
+- Identified **top-performing regions and body styles** contributing most to total sales.  
+- Tracked **YOY and MTD growth trends**, highlighting performance fluctuations.  
+- Analyzed **average price variations** across models and time periods.  
+- Discovered **dealer regions with high sales potential** and underperforming zones.  
+
+---
+
+## 📊 Dashboard Preview
+_Add your Power BI dashboard screenshot here after exporting it as an image:_
+```markdown
+![Sales Overview Dashboard](<img width="1204" height="673" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/0b689cb5-2129-4d81-a687-364e6ad56ae6" />
+![Detailed Sales Dashboard](<img width="1204" height="672" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/b1513760-5df7-4c8a-be48-41e0ebbf0b5c" />
+)
+

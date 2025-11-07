@@ -72,9 +72,14 @@ The dashboard provides real-time insights into the following KPIs:
 ---
 
 ## 📊 Dashboard Preview
-_Add your Power BI dashboard screenshot here after exporting it as an image:_
-```markdown
-![Sales Overview Dashboard](<img width="1204" height="673" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/0b689cb5-2129-4d81-a687-364e6ad56ae6" />
-![Detailed Sales Dashboard](<img width="1204" height="672" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/b1513760-5df7-4c8a-be48-41e0ebbf0b5c" />
-)
+
+### 🧮 Sales Overview Dashboard
+This dashboard provides insights into total sales, YOY growth, and regional performance.
+![Sales Overview Dashboard](Overview Dashboard.png)
+---
+
+### 🗂️ Detailed Car Sales Information Dashboard
+This dashboard displays all car sales details including model, color, region, and sales amount.
+![Detailed Car Sales Information Dashboard](https://github.com/username/repo-name/assets/87654321/detailed_sales_grid.png)
+
 

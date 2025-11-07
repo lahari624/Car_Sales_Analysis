@@ -71,15 +71,23 @@ The dashboard provides real-time insights into the following KPIs:
 
 ---
 
-## 📊 Dashboard Preview
+## 📸 Dashboard Previews
 
 ### 🧮 Sales Overview Dashboard
-This dashboard provides insights into total sales, YOY growth, and regional performance.
-![Sales Overview Dashboard](Overview Dashboard.png)
+This dashboard provides an **overall summary of car sales performance**.  
+It displays KPIs like **YTD, MTD, and YOY Sales**, along with insights into **average price, cars sold, and regional performance**.  
+It also includes visualizations like **sales by body style**, **color**, and **geographic region** to support strategic decision-making.
+
+![Sales Overview Dashboard](https://github.com/lahari624/Car_Sales_Analysis/blob/main/Overview%20Dashboard.png)
+
 ---
 
 ### 🗂️ Detailed Car Sales Information Dashboard
-This dashboard displays all car sales details including model, color, region, and sales amount.
-![Detailed Car Sales Information Dashboard](https://github.com/username/repo-name/assets/87654321/detailed_sales_grid.png)
+This dashboard presents a **comprehensive data grid of individual car sales records**.  
+It allows users to explore each transaction in depth — including **Car Model**, **Body Style**, **Color**, **Sales Amount**, **Dealer Region**, **Date**, and **Company**.  
+This detailed view supports deeper analysis, transparency, and data validation for business decisions.
+
+![Detailed Car Sales Information Dashboard](https://github.com/lahari624/Car_Sales_Analysis/blob/main/Details%20Dashboard.png)
+
 
 
